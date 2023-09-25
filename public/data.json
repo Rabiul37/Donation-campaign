@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/g3GVB6j/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "cardBackgroundColor": "#0052FF26",
+    "categoryBackgroundColor": "#0052ff33",
+    "textColor": "#0052FF",
+    "description": "Your generous health donation can make a world of difference. By contributing to this vital cause, you're supporting access to quality healthcare, medications, and medical treatments for those in need. Your donation aids in improving lives, ensuring healthier futures, and providing hope to individuals facing health challenges. Join us in making a positive impact on healthcare and wellbeing, one donation at a time. Together, we can create a healthier world for all.",
+    "price": "$25"
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/w0nRqmc/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "cardBackgroundColor": "#FF444A26",
+    "categoryBackgroundColor": "#ff444e33",
+    "textColor": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": "$20"
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/Fbqw6sG/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "cardBackgroundColor": "#79C23F26",
+    "categoryBackgroundColor": "#79c23d33",
+    "textColor": "#79C23F",
+    "description": "Your generous cloth donation can change lives. By donating clothing, you provide warmth, comfort, and dignity to those in need. Your contributions help individuals and families facing challenging circumstances, giving them access to clean and wearable clothing. Join us in making a positive impact on the lives of others. Every garment you donate brings us one step closer to a world where everyone has the clothing they need for a brighter future.",
+    "price": "$30"
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/Q7Bg8wz/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "cardBackgroundColor": "#F8714726",
+    "categoryBackgroundColor": "#f8714726",
+    "textColor": "#F87147",
+    "description": "Your food donation is a lifeline for those in hunger. By sharing what you have, you provide nourishment and hope to individuals and families facing food insecurity. Your generosity ensures that no one goes to bed hungry. Join us in the fight against hunger and food waste. Every donation makes a difference, bringing sustenance to those who need it most. Together, we can create a world where everyone has access to nutritious meals.",
+    "price": "$15"
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/Q7Bg8wz/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "cardBackgroundColor": "#F8714726",
+    "categoryBackgroundColor": "#f8714726",
+    "textColor": "#F87147",
+    "description": "Your food donation is a lifeline for those in hunger. By sharing what you have, you provide nourishment and hope to individuals and families facing food insecurity. Your generosity ensures that no one goes to bed hungry. Join us in the fight against hunger and food waste. Every donation makes a difference, bringing sustenance to those who need it most. Together, we can create a world where everyone has access to nutritious meals.",
+    "price": "$50"
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/Fbqw6sG/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "cardBackgroundColor": "#79C23F26",
+    "categoryBackgroundColor": "#79c23d33",
+    "textColor": "#79C23F",
+    "description": "Your generous cloth donation can change lives. By donating clothing, you provide warmth, comfort, and dignity to those in need. Your contributions help individuals and families facing challenging circumstances, giving them access to clean and wearable clothing. Join us in making a positive impact on the lives of others. Every garment you donate brings us one step closer to a world where everyone has the clothing they need for a brighter future.",
+    "price": "$35"
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co/w0nRqmc/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "cardBackgroundColor": "#FF444A26",
+    "categoryBackgroundColor": "#ff444e33",
+    "textColor": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": "$40"
+  },
+  {
+    "id": 8,
+    "img": "https://i.ibb.co/g3GVB6j/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "cardBackgroundColor": "#0052FF26",
+    "categoryBackgroundColor": "#0052ff33",
+    "textColor": "#0052FF",
+    "description": "Your generous health donation can make a world of difference. By contributing to this vital cause, you're supporting access to quality healthcare, medications, and medical treatments for those in need. Your donation aids in improving lives, ensuring healthier futures, and providing hope to individuals facing health challenges. Join us in making a positive impact on healthcare and wellbeing, one donation at a time. Together, we can create a healthier world for all.",
+    "price": "$25"
+  },
+  {
+    "id": 9,
+    "img": "https://i.ibb.co/g3GVB6j/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "cardBackgroundColor": "#0052FF26",
+    "categoryBackgroundColor": "#0052ff33",
+    "textColor": "#0052FF",
+    "description": "Your generous health donation can make a world of difference. By contributing to this vital cause, you're supporting access to quality healthcare, medications, and medical treatments for those in need. Your donation aids in improving lives, ensuring healthier futures, and providing hope to individuals facing health challenges. Join us in making a positive impact on healthcare and wellbeing, one donation at a time. Together, we can create a healthier world for all.",
+    "price": "$30"
+  },
+  {
+    "id": 10,
+    "img": "https://i.ibb.co/w0nRqmc/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "cardBackgroundColor": "#FF444A26",
+    "categoryBackgroundColor": "#ff444e33",
+    "textColor": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": "$20"
+  },
+  {
+    "id": 11,
+    "img": "https://i.ibb.co/Fbqw6sG/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "cardBackgroundColor": "#79C23F26",
+    "categoryBackgroundColor": "#79c23d33",
+    "textColor": "#79C23F",
+    "description": "Your generous cloth donation can change lives. By donating clothing, you provide warmth, comfort, and dignity to those in need. Your contributions help individuals and families facing challenging circumstances, giving them access to clean and wearable clothing. Join us in making a positive impact on the lives of others. Every garment you donate brings us one step closer to a world where everyone has the clothing they need for a brighter future.",
+    "price": "$45"
+  },
+  {
+    "id": 12,
+    "img": "https://i.ibb.co/Q7Bg8wz/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "cardBackgroundColor": "#F8714726",
+    "categoryBackgroundColor": "#f8714726",
+    "textColor": "#F87147",
+    "description": "Your food donation is a lifeline for those in hunger. By sharing what you have, you provide nourishment and hope to individuals and families facing food insecurity. Your generosity ensures that no one goes to bed hungry. Join us in the fight against hunger and food waste. Every donation makes a difference, bringing sustenance to those who need it most. Together, we can create a world where everyone has access to nutritious meals.",
+    "price": "$30"
+  }
+]
