@@ -43,6 +43,6 @@ const DonationCard = ({ Donation }) => {
 };
 
 DonationCard.propTypes = {
-  Donation: PropsTypes.obj,
+  Donation: PropsTypes.object,
 };
 export default DonationCard;
