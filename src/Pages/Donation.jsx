@@ -5,7 +5,6 @@ const Donation = () => {
   const [Donations, setDonations] = useState([]);
   const [noDataFond, setNoDataFond] = useState(false);
   const [isShow, setisShow] = useState(false);
-  console.log(isShow);
   useEffect(() => {
     const DonationsItems = JSON.parse(localStorage.getItem("Donations"));
 
@@ -31,16 +30,16 @@ const Donation = () => {
                     Donation={Donation}
                   ></DonationListCard>
                 ))
-              : Donations.slice(0, 2).map((Donation) => (
+              : Donations.slice(0, 4).map((Donation) => (
                   <DonationListCard
                     key={Donation.id}
                     Donation={Donation}
                   ></DonationListCard>
                 ))}
           </div>
-          {Donations.length > 2 && (
+          {Donations.length > 4 && (
             <button
-              className="mt-8 text-xl text-white font-medium bg-orange-500 p-2 rounded block mx-auto"
+              className="mt-8 text-xl text-white font-medium bg-green-700 p-2 rounded block mx-auto"
               onClick={() => setisShow(!isShow)}
             >
               {isShow ? "See Less" : "See More "}

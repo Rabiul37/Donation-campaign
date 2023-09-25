@@ -1,6 +1,6 @@
 const Banner = () => {
   return (
-    <div className=" bg-[url('../../../public/images/banner.jpg')]  bg-cover bg-center  h-[80vh] mt-4">
+    <div className=" bg-[url('./images/banner.jpg')]  bg-cover bg-center  h-[80vh] mt-4">
       <div className="bg-gradient-to-r from-[#FFFFFFE6] to-[#FFFFFFE6] h-[80vh] relative">
         <div className="absolute inset-0 flex flex-col justify-center items-center gap-5">
           <div>
