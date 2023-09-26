@@ -1,7 +1,6 @@
 import PropsTypes from "prop-types";
 const DonationListCard = ({ Donation }) => {
   const {
-    id,
     img,
     category,
     title,

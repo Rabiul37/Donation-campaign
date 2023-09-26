@@ -4,7 +4,7 @@ const Banner = () => {
       <div className="bg-gradient-to-r from-[#FFFFFFE6] to-[#FFFFFFE6] h-[80vh] relative">
         <div className="absolute inset-0 flex flex-col justify-center items-center gap-5">
           <div>
-            <h1 className="text-4xl font-extrabold">
+            <h1 className=" text-2xl font-bold lg:text-4xl">
               I Grow By Helping People In Need
             </h1>
           </div>

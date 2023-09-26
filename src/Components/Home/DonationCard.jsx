@@ -22,7 +22,7 @@ const DonationCard = ({ Donation }) => {
       <Link to={`/Home/${id}`}>
         <div
           style={bgStyle}
-          className="card card-compact w-72 shadow-xl {`bg-${cardBackgroundColor}-600`}"
+          className="card card-compact w-56 lg:w-60 shadow-xl {`bg-${cardBackgroundColor}-600`}"
         >
           <figure>
             <img className="w-full" src={img} />
